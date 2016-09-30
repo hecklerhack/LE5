@@ -1,0 +1,63 @@
+@import "https://fonts.googleapis.com/css?family=Roboto:400,100,100italic,300,300italic,400italic,500,500italic,700,700italic,900,900italic&subset=latin,cyrillic";
+
+.form-control{
+    border-radius: 10px;
+}
+
+.form-login{
+    background-color:  #EDEDED;
+    padding-top: 10px;
+    padding-bottom: 20px;
+    padding-left: 10px;
+    padding-right: 20px;
+    border-radius: 15px;
+    border-color: #d2d2d2;
+    border-width: 10px;
+    box-shadow: 0 1px 0 #cfcfcf;
+}
+
+.wrapper{
+    text-align: center;
+}
+
+.container{
+    padding: 25px;
+    position: center center-fixed;
+}
+
+.body{
+    background-color: #1c1c1c;
+}
+
+#header .logo {
+            display: inline-block;
+            height: inherit;
+            left: 1.25em;
+            line-height: inherit;
+            margin: 0;
+            padding: 0;
+            position: absolute;
+            top: 0;
+            color: #fff;
+            font-size: 1.25em;
+            text-decoration: none;
+            
+            font-family: 'RobotoDraft', 'Roboto', 'Helvetica Neue, Helvetica, Arial', sans-serif;
+  font-style: normal;
+  font-weight: 300;
+ 
+	}
+ #header {
+		background: #1c1c1c;
+		color: rgba(255, 255, 255, 0.75);
+		cursor: default;
+		height: 4.25em;
+		left: 0;
+		line-height: 4.25em;
+		position: fixed;
+		text-align: left;
+		top: 0;
+		width: 100%;
+		z-index: 10001;
+	}
+
